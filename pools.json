@@ -1,0 +1,24 @@
+[
+  {
+    "poolName": "mc-pool.multicoins.org",
+    "url": "http://mc-pool.multicoins.org:8092/",
+    "searchStrings": [
+      "mc-pool.multicoins.org",
+      "mc-pool.multicoins.org"
+    ]
+  },
+  {
+    "poolName": "ASICminer",
+    "url": "https://bitcointalk.org/index.php?topic=1929459.0",
+    "searchStrings": [
+      "Mined By ASICMiner"
+    ]
+  },
+  {
+    "poolName":"BTCC Pool",
+    "url":"https://pool.btcc.com/",
+    "searchStrings":[
+      "/BTCC/"
+    ]
+  }
+]
