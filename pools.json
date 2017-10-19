@@ -7,18 +7,4 @@
       "mc-pool.multicoins.org"
     ]
   },
-  {
-    "poolName": "ASICminer",
-    "url": "https://bitcointalk.org/index.php?topic=1929459.0",
-    "searchStrings": [
-      "Mined By ASICMiner"
-    ]
-  },
-  {
-    "poolName":"BTCC Pool",
-    "url":"https://pool.btcc.com/",
-    "searchStrings":[
-      "/BTCC/"
-    ]
-  }
-]
+ ]
